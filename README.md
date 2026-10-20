@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, sou Luciano Silva 👋
 
-<!--
-**lucianoscs/lucianoscs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engenheiro de Infraestrutura IT & Especialista em Cloud e DevOps. Atuo no desenho, automação e sustentação de ambientes multicloud resilientes e escaláveis.
 
-Here are some ideas to get you started:
+- 🔭 Atualmente focado em arquiteturas multicloud, observabilidade e automação de infraestrutura.
+- 🛠️ Domínio em **AWS, Azure, GCP, OCI, Terraform, Kubernetes, Docker, CI/CD e Linux**.
+- 🎓 Pós-graduando em DevOps e Arquitetura Cloud.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias & Ferramentas
+`Nuvens:` AWS · Azure · GCP · OCI
+`IaC & Containers:` Terraform · Ansible · Docker · Kubernetes
+`CI/CD & Observabilidade:` GitHub Actions · Jenkins · Datadog · Grafana · Prometheus
+`SO & Scripting:` Linux (Ubuntu, Debian, RHEL) · Windows Server · Bash · PowerShell
+
+---
+📫 **Contato:** [LinkedIn](https://www.linkedin.com/in/lucianoscs/)
