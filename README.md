@@ -22,10 +22,11 @@ Engenheiro de Infraestrutura IT & Especialista em Cloud e DevOps. Atuo no desenh
 `CI/CD & Observabilidade:` GitHub Actions · Jenkins · Datadog · Grafana · Prometheus
 `SO & Scripting:` Linux (Ubuntu, Debian, RHEL) · Windows Server · Bash · PowerShell
 
-<!--
 ### 📜 Certificações
 - Nome da certificação (emissor, ano) - link da credencial
--->
+- Azure Solutions Architect Expert - Earned on September 30, 2020 | Expires on September 30, 2027 | https://learn.microsoft.com/api/credentials/share/en-us/LucianoSilva-9741/839662A7A86B943C?sharingId=52FECC1FE443EA0A |
+- Azure Administrator Associate - Earned on June 29, 2020 | Expires on June 29, 2027 | https://learn.microsoft.com/api/credentials/share/en-us/LucianoSilva-9741/11C5278DD0F7E19E?sharingId=52FECC1FE443EA0A |
+- AWS Cloud Practitioner - Earned on August 23, 2023 | Expires on June 28, 2029 | https://www.credly.com/badges/8443165b-7386-409b-b922-74b603a6f06a/public_url |
 
 ### 📚 Em andamento na pós
 Escalabilidade e conteinerização → automação e segurança na cloud → observabilidade → multicloud, custos e IA.
