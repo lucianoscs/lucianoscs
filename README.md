@@ -29,6 +29,7 @@ Engenheiro de Infraestrutura IT & Especialista em Cloud e DevOps. Atuo no desenh
 | Azure Solutions Architect Expert | Microsoft | 09/2020 | 09/2027 | [Verificar](https://learn.microsoft.com/api/credentials/share/en-us/LucianoSilva-9741/839662A7A86B943C?sharingId=52FECC1FE443EA0A) |
 | Azure Administrator Associate | Microsoft | 06/2020 | 06/2027 | [Verificar](https://learn.microsoft.com/api/credentials/share/en-us/LucianoSilva-9741/11C5278DD0F7E19E?sharingId=52FECC1FE443EA0A) |
 | AWS Certified Cloud Practitioner | AWS | 08/2023 | 06/2029 | [Verificar](https://www.credly.com/badges/8443165b-7386-409b-b922-74b603a6f06a/public_url) |
+| Oracle Cloud Infrastructure AI Foundations Associate | OCI | 11/2026 | 11/2028 | [Verificar](https://www.credly.com/badges/8443165b-7386-409b-b922-74b603a6f06a/public_url](https://catalog-education.oracle.com/pls/certview/sharebadge?id=19FE8043F92FDDAD4BB939ED7CF76B5561CD7550BF7341D5EB720A5A61ADA3B0) |
 
 ### 📚 Em andamento na pós
 Escalabilidade e conteinerização → automação e segurança na cloud → observabilidade → multicloud, custos e IA.
